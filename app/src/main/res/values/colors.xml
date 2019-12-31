@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="category_numbers">#E96F6F</color>
+    <color name="category_family">#69966D</color>
+    <color name="category_colors">#ee4f00</color>
+    <color name="category_phrases">#1085B2</color>
+</resources>
